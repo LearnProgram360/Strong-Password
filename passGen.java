@@ -1,5 +1,3 @@
-package com.learnprogram.passgen;
-
 import java.util.Random;
 import java.util.Scanner;
 
